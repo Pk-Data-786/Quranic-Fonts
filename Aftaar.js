@@ -1,6 +1,6 @@
     // Custom Sehri & Aftari Timings
     const timings = {
-        "04-03-2025": { sehri: "05:21 AM", aftari: "06:29 PM" },
+        "04-03-2025": { sehri: "05:22 AM", aftari: "06:29 PM" },
         "05-03-2025": { sehri: "05:20 AM", aftari: "06:30 PM" },
     };
 
